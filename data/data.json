@@ -1,0 +1,605 @@
+{
+ "name": "Reproductive Justice",
+ "children": [
+   {
+     "name":"Over-policing",
+     "size": 3938,
+     "children": [
+       {
+         "name": "What kind of effect will President Trump's policies have on the Black community's ability to keep children safe from over policing?",
+         "size":870,
+         "children": [
+           {"name":"11 percent believe President Trump's policies will have a positive effect", "size": 870},
+           {"name":"62 percent believe President Trump's policies will have a negative effect", "size": 870},
+           {"name":"25 percent believe President Trump's policies will have no effect", "size": 870}
+         ]
+       },
+       {"name": "10c","size":870},
+       {"name": "15a","size":870},
+       {"name": "20a","size":870},
+       {"name": "14","size":870},
+       {
+         "name": "18",
+         "size": 600,
+         "children": [
+           {"name": "a", "size":100},
+           {"name": "b", "size":200},
+           {"name": "c", "size":400},
+           {"name": "d", "size":800}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Mass incarceration",
+     "size": 3812,
+     "children": [
+       {"name":"8d", "size": 870},
+       {"name":"10d", "size": 870},
+       {"name":"15b", "size": 870},
+       {"name":"20b", "size": 870},
+       {
+         "name":"17",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 100},
+           {"name":"b", "size": 300},
+           {"name":"c", "size": 400},
+           {"name":"d", "size": 500}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Affordable housing",
+     "size": 6714,
+     "children": [
+       {"name":"8e", "size": 870},
+       {"name":"10e", "size": 870},
+       {"name":"15c", "size": 870},
+       {"name":"20c", "size": 870}
+     ]
+   },
+   {
+     "name": "Clean water",
+     "size": 3534,
+     "children": [
+       {"name":"8f", "size": 870},
+       {"name":"10f", "size": 870},
+       {"name":"15d", "size": 870},
+       {"name":"20d", "size": 870},
+       {
+         "name":"16",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 100},
+           {"name":"b", "size": 200},
+           {"name":"c", "size": 100},
+           {"name":"d", "size": 400},
+           {"name":"e", "size": 100}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Quality public schools",
+     "size": 5731,
+     "children": [
+       {"name":"8g", "size": 870},
+       {"name":"10g", "size": 870},
+       {"name":"15e", "size": 870},
+       {"name":"20e", "size": 870}
+     ]
+   },
+   {
+     "name": "Higher education",
+     "size": 5842,
+     "children": [
+       {"name":"8h", "size": 870},
+       {"name":"10h", "size": 870},
+       {"name":"15f", "size": 870},
+       {"name":"20f", "size": 870}
+     ]
+   },
+   {
+     "name": "Health care",
+     "size": 5842,
+     "children": [
+       {"name":"8i", "size": 870},
+       {"name":"10i", "size": 870},
+       {"name":"15g", "size": 870},
+       {"name":"20g", "size": 870},
+       {
+         "name":"21",
+         "size": 870,
+         "children": [
+           {"name":"a % part of health care", "size": 100},
+           {"name":"b % part of health care", "size": 200},
+           {"name":"c % part of health care", "size": 400},
+           {"name":"d % part of health care", "size": 800},
+           {"name":"e % part of health care", "size": 100}
+         ]
+       },
+       {"name":"22", "size": 870},
+       {"name":"23", "size": 870},
+       {"name":"24", "size": 870}
+     ]
+   },
+   {
+     "name": "Birth control",
+     "size": 5842,
+     "children": [
+       {"name":"8j", "size": 870},
+       {"name":"10j", "size": 870},
+       {"name":"15h", "size": 870},
+       {"name":"20h", "size": 870},
+       {"name":"21a", "size": 870},
+       {"name":"24", "size": 870},
+       {"name":"25", "size": 870},
+       {"name":"40b", "size": 870}
+     ]
+   },
+   {
+     "name": "Abortion",
+     "size": 5842,
+     "children": [
+       {"name":"8k", "size": 870},
+       {"name":"10k", "size": 870},
+       {"name":"15i", "size": 870},
+       {"name":"20i", "size": 870},
+       {"name":"21c", "size": 870},
+       {"name":"26", "size": 870},
+       {
+         "name":"27",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 100},
+           {"name":"b", "size": 300}
+         ]
+       },
+       {"name":"29 positive", "size": 870},
+       {"name":"30 positive", "size": 870},
+       {"name":"31 positive", "size": 870},
+       {"name":"32", "size": 870},
+       {"name":"34", "size": 870},
+       {
+         "name":"40",
+         "size": 870,
+         "children": [
+           {"name":"c", "size": 100},
+           {"name":"d", "size": 200}
+         ]
+       },
+       {"name":"36g", "size": 870}
+     ]
+   },
+   {
+     "name": "Mental health care",
+     "size": 5842,
+     "children": [
+       {"name":"8l", "size": 870},
+       {"name":"10l", "size": 870},
+       {"name":"15j", "size": 870},
+       {"name":"20j", "size": 870}
+     ]
+   },
+   {
+     "name": "Child care",
+     "size": 5842,
+     "children": [
+       {"name":"8m", "size": 870},
+       {"name":"10m", "size": 870},
+       {"name":"15k", "size": 870},
+       {"name":"20k", "size": 870}
+     ]
+   },
+   {
+     "name": "Healthy and affordable food options",
+     "size": 5842,
+     "children": [
+       {"name":"8n", "size": 870},
+       {"name":"10n", "size": 870},
+       {"name":"15l", "size": 870},
+       {"name":"20l", "size": 870}
+     ]
+   },
+   {
+     "name": "Neighborhood services",
+     "size": 5842,
+     "children": [
+       {"name":"10o", "size": 870},
+       {"name":"15m", "size": 870},
+       {"name":"20m", "size": 870}
+     ]
+   },
+   {
+     "name": "Neighborhood safety",
+     "size": 5842,
+     "children": [
+       {"name":"8o", "size": 870},
+       {"name":"10p", "size": 870},
+       {"name":"15n", "size": 870},
+       {"name":"20n", "size": 870}
+     ]
+   },
+   {
+     "name": "Domestic violence",
+     "size": 5842,
+     "children": [
+       {"name":"8p", "size": 870},
+       {"name":"10q", "size": 870},
+       {"name":"15o", "size": 870},
+       {"name":"20o", "size": 870},
+       {"name":"36d", "size": 870},
+       {"name":"36h", "size": 870},
+       {
+         "name":"40",
+         "size": 870,
+         "children": [
+           {"name":"a among women", "size": 870},
+           {"name":"b among women", "size": 870},
+           {"name":"c among women", "size": 870},
+           {"name":"d among women", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Job/workforce",
+     "size": 5842,
+     "children": [
+       {
+         "name":"8",
+         "size": 870,
+         "children": [
+           {"name":"r", "size": 870},
+           {"name":"s", "size": 870},
+           {"name":"t", "size": 870}
+         ]
+       },
+       {
+         "name":"10",
+         "size": 870,
+         "children": [
+           {"name":"s", "size": 870},
+           {"name":"t", "size": 870},
+           {"name":"u", "size": 870}
+         ]
+       },
+       {
+         "name":"15",
+         "size": 870,
+         "children": [
+           {"name":"q", "size": 870},
+           {"name":"r", "size": 870},
+           {"name":"s", "size": 870}
+         ]
+       },
+       {
+         "name":"20",
+         "size": 870,
+         "children": [
+           {"name":"p", "size": 870},
+           {"name":"q", "size": 870},
+           {"name":"r", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Voting rights",
+     "size": 5842,
+     "children": [
+       {"name":"8u", "size": 870},
+       {"name":"10v", "size": 870},
+       {"name":"15t", "size": 870},
+       {"name":"20s", "size": 870}
+     ]
+   },
+   {
+     "name": "Drug and alcohol use",
+     "size": 5842,
+     "children": [
+       {"name":"8q", "size": 870},
+       {"name":"10r", "size": 870},
+       {"name":"15p", "size": 870},
+       {"name":"20t", "size": 870}
+     ]
+   },
+   {
+     "name": "Reproductive health",
+     "size": 5842,
+     "children": [
+       {"name":"33", "size": 870},
+       {"name":"8j", "size": 870},
+       {"name":"10j", "size": 870},
+       {"name":"15h", "size": 870},
+       {"name":"20h", "size": 870},
+       {"name":"21a", "size": 870},
+       {"name":"24", "size": 870},
+       {"name":"25", "size": 870},
+       {"name":"40b", "size": 870},
+       {"name":"22 % of women afford 10 or less", "size": 870},
+       {"name":"8k", "size": 870},
+       {"name":"10k", "size": 870},
+       {"name":"15i", "size": 870},
+       {"name":"20i", "size": 870},
+       {"name":"21c", "size": 870},
+       {"name":"26", "size": 870},
+       {
+         "name":"27",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870}
+         ]
+       },
+       {"name":"29 % positive", "size": 870},
+       {"name":"30 % positive", "size": 870},
+       {"name":"31 % positive", "size": 870},
+       {"name":"32", "size": 870},
+       {"name":"34", "size": 870},
+       {
+         "name":"40",
+         "size": 870,
+         "children": [
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870}
+         ]
+       },
+       {"name":"22", "size": 870}
+     ]
+   },
+   {
+     "name": "Sex education",
+     "size": 5842,
+     "children": [
+       {"name":"35", "size": 870},
+       {
+         "name":"36",
+         "size": 870,
+         "children": [
+           {"name":"a % included", "size": 870},
+           {"name":"b % included", "size": 870},
+           {"name":"c % included", "size": 870},
+           {"name":"d % included", "size": 870},
+           {"name":"e % included", "size": 870},
+           {"name":"f % included", "size": 870},
+           {"name":"g % included", "size": 870},
+           {"name":"h % included", "size": 870},
+           {"name":"i % included", "size": 870},
+           {"name":"j % included", "size": 870},
+           {"name":"k % included", "size": 870},
+           {"name":"l % included", "size": 870},
+           {"name":"m % included", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Sexual pressure and violence among women",
+     "size": 5842,
+     "children": [
+       {"name":"38 (women only)", "size": 870},
+       {"name":"39 % once in a while (women only)", "size": 870},
+       {
+         "name":"40",
+         "size": 870,
+         "children": [
+           {"name":"a % yes among women", "size": 870},
+           {"name":"b % yes among women", "size": 870},
+           {"name":"c % yes among women", "size": 870},
+           {"name":"d % yes among women", "size": 870}
+         ]
+       },
+       {
+         "name":"36",
+         "size": 870,
+         "children": [
+           {"name":"h", "size": 870},
+           {"name":"i", "size": 870},
+           {"name":"j", "size": 870},
+           {"name":"l", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Improving Black women's lives",
+     "size": 5842,
+     "children": [
+       {
+         "name":"20",
+         "size": 870,
+         "children": [
+           {"name":"a % extremely", "size": 870},
+           {"name":"b % extremely", "size": 870},
+           {"name":"c % extremely", "size": 870},
+           {"name":"d % extremely", "size": 870},
+           {"name":"e % extremely", "size": 870},
+           {"name":"f % extremely", "size": 870},
+           {"name":"g % extremely", "size": 870},
+           {"name":"h % extremely", "size": 870},
+           {"name":"i % extremely", "size": 870},
+           {"name":"j % extremely", "size": 870},
+           {"name":"k % extremely", "size": 870},
+           {"name":"l % extremely", "size": 870},
+           {"name":"m % extremely", "size": 870},
+           {"name":"n % extremely", "size": 870},
+           {"name":"o % extremely", "size": 870},
+           {"name":"p % extremely", "size": 870},
+           {"name":"q % extremely", "size": 870},
+           {"name":"r % extremely", "size": 870},
+           {"name":"s % extremely", "size": 870},
+           {"name":"t % extremely", "size": 870},
+           {"name":"u % extremely", "size": 870},
+           {"name":"v % extremely", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "President Trump",
+     "size": 5842,
+     "children": [
+       {"name":"1", "size": 870},
+       {"name":"5", "size": 870},
+       {"name":"6", "size": 870},
+       {"name":"7", "size": 870},
+       {
+         "name":"8",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870},
+           {"name":"e", "size": 870},
+           {"name":"f", "size": 870},
+           {"name":"g", "size": 870},
+           {"name":"h", "size": 870},
+           {"name":"i", "size": 870},
+           {"name":"j", "size": 870},
+           {"name":"k", "size": 870},
+           {"name":"l", "size": 870},
+           {"name":"m", "size": 870},
+           {"name":"n", "size": 870},
+           {"name":"o", "size": 870},
+           {"name":"p", "size": 870},
+           {"name":"q", "size": 870},
+           {"name":"r", "size": 870},
+           {"name":"s", "size": 870},
+           {"name":"t", "size": 870},
+           {"name":"u", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Racism",
+     "size": 5842,
+     "children": [
+       {
+         "name": "2",
+         "size": 870,
+         "children": [
+           {"name": "c", "size": 870},
+           {"name": "d", "size": 870},
+           {"name": "e", "size": 870},
+           {"name": "f", "size": 870}
+         ]
+       },
+       {"name": "3", "size": 870},
+       {"name": "7", "size": 870},
+       {"name": "7b", "size": 870},
+       {"name": "9", "size": 870},
+       {
+         "name":"10",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870},
+           {"name":"e", "size": 870},
+           {"name":"f", "size": 870},
+           {"name":"g", "size": 870},
+           {"name":"h", "size": 870},
+           {"name":"i", "size": 870},
+           {"name":"j", "size": 870},
+           {"name":"k", "size": 870},
+           {"name":"l", "size": 870},
+           {"name":"m", "size": 870},
+           {"name":"n", "size": 870},
+           {"name":"o", "size": 870},
+           {"name":"p", "size": 870},
+           {"name":"q", "size": 870},
+           {"name":"r", "size": 870},
+           {"name":"s", "size": 870},
+           {"name":"t", "size": 870},
+           {"name":"u", "size": 870},
+           {"name":"v", "size": 870}
+         ]
+       }
+     ]
+   },
+   {
+     "name": "Having children",
+     "size": 5842,
+     "children": [
+       {"name":"10", "size": 870},
+       {"name":"12", "size": 870},
+       {
+         "name":"15",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870},
+           {"name":"e", "size": 870},
+           {"name":"f", "size": 870},
+           {"name":"g", "size": 870},
+           {"name":"h", "size": 870},
+           {"name":"i", "size": 870},
+           {"name":"j", "size": 870},
+           {"name":"k", "size": 870},
+           {"name":"l", "size": 870},
+           {"name":"m", "size": 870},
+           {"name":"n", "size": 870},
+           {"name":"o", "size": 870},
+           {"name":"p", "size": 870},
+           {"name":"q", "size": 870},
+           {"name":"r", "size": 870},
+           {"name":"s", "size": 870},
+           {"name":"t", "size": 870},
+           {"name":"u", "size": 870},
+           {"name":"v", "size": 870}
+         ]
+       },
+       {"name":"14", "size": 870},
+       {
+         "name":"17",
+         "size": 870,
+         "children": [
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870}
+         ]
+       },
+       {
+         "name":"18",
+         "size": 870,
+         "children": [
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870}
+         ]
+       },
+       {
+         "name":"10",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870},
+           {"name":"m", "size": 870},
+           {"name":"g", "size": 870}
+         ]
+       },
+       {
+         "name":"8",
+         "size": 870,
+         "children": [
+           {"name":"a", "size": 870},
+           {"name":"b", "size": 870},
+           {"name":"c", "size": 870},
+           {"name":"d", "size": 870},
+           {"name":"g", "size": 870}
+         ]
+       }
+     ]
+   }
+ ]
+}
